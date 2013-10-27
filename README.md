@@ -26,3 +26,10 @@ http://eon.sdsu.edu/~impellus/FLOW/
 Compare also the cleanliness of the actual code with the examples that use low-level WebGL API:
 http://eon.sdsu.edu/~impellus/FLOW/scripts/functions.js
 
+
+http://jsfiddle.net/qEWW4/16/
+
+http://stackoverflow.com/questions/12656138/how-to-render-2d-shape-of-points-in-three-js
+
+Israeli with WegGL:
+http://sherer.co.il/
