@@ -20,19 +20,18 @@ http://en.wikipedia.org/wiki/GLSL
 three.js
 ========
 
-Basics of Three.js (fhtr.org)
-
-http://fhtr.org/BasicsOfThreeJS/#1
-https://github.com/kig/BasicsOfThreeJS
-https://news.ycombinator.com/item?id=7328658
+Basics of Three.js (fhtr.org):
+- http://fhtr.org/BasicsOfThreeJS/#1
+- https://github.com/kig/BasicsOfThreeJS
+- https://news.ycombinator.com/item?id=7328658
 
 
 2D example using Three.js, where you can turn some features on and off.
 While very different from what you need, it still looks like a very relevant example.
-http://eon.sdsu.edu/~impellus/FLOW/
+- http://eon.sdsu.edu/~impellus/FLOW/
 
 Compare also the cleanliness of the actual code with the examples that use low-level WebGL API:
-http://eon.sdsu.edu/~impellus/FLOW/scripts/functions.js
+- http://eon.sdsu.edu/~impellus/FLOW/scripts/functions.js
 
 -----------------------------------------------------------------------------
 
