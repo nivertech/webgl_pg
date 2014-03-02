@@ -21,8 +21,11 @@ three.js
 ========
 
 Basics of Three.js (fhtr.org)
+
 http://fhtr.org/BasicsOfThreeJS/#1
+https://github.com/kig/BasicsOfThreeJS
 https://news.ycombinator.com/item?id=7328658
+
 
 2D example using Three.js, where you can turn some features on and off.
 While very different from what you need, it still looks like a very relevant example.
