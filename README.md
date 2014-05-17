@@ -3,7 +3,7 @@ webgl_pg
 
 WebGL Playground
 
-- file:///home/zvi/ws/webgl_pg/2d.html
+- https://github.com/nivertech/webgl_pg/blob/master/2d.html
 - http://get.webgl.org/
 
 WebGL tutorial:
