@@ -38,6 +38,6 @@ http://jsfiddle.net/qEWW4/16/
 
 http://stackoverflow.com/questions/12656138/how-to-render-2d-shape-of-points-in-three-js
 
-Israeli with WegGL:
+WebGL IL:
 http://sherer.co.il/
 
